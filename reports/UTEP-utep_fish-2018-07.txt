@@ -1,0 +1,40 @@
+Report for Institution Code UTEP, Resource utep_fish
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 3
+Number of records retrieved in searches: 198
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-23 ; Times: 1
+	Date: 2018-07-11 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "gbifdatasetid:f8d03ba0-f81b-482c-a7d0-bd3254e9e7e7" ; Times: 2
+	Query: "catalognumber:36 institutioncode:UTEP" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 977 download events in this period)
+Total number of records downloaded: 36
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-20 ; Times: 1
+	Date: 2018-07-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Comal county" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+
+
+End of report.
