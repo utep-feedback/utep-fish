@@ -1,0 +1,32 @@
+Report for Institution Code UTEP, Resource utep_fish
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1
+Number of records retrieved in searches: 100
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gbifdatasetid:f8d03ba0-f81b-482c-a7d0-bd3254e9e7e7" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 846 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
